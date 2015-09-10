@@ -1,4 +1,5 @@
-appropriate
-more appropriate
-even more appropriate
-totally called for
+Appropriate
+Not appropriate
+Even less appropriate
+Totally uncalled for
+Really?
